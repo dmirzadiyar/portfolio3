@@ -12,9 +12,12 @@ I created a simple section with a heading and paragraph. CSS media queries chang
 
 **Screenshot:**
 
-![Task 0 — Desktop](screenshots/task0-desktop.png)
-
-![Task 0 — Mobile](screenshots/task0-mobile.png)
+![Task 0 — Desktop](screenshots/task01.png)
+![Task 0 — Desktop](screenshots/task02.png)
+![Task 0 — Desktop](screenshots/task03.png)
+![Task 0 — Desktop](screenshots/task04.png)
+![Task 0 — Desktop](screenshots/task05.png)
+![Task 0 — Desktop](screenshots/task06.png)
 
 ### Task 1. Responsive Layout with Media Queries
 
@@ -22,11 +25,12 @@ Three boxes are arranged with CSS Grid and media queries. On desktop they appear
 
 **Screenshot:**
 
-![Task 1 — Desktop](screenshots/task1-desktop.png)
-
-![Task 1 — Tablet](screenshots/task1-tablet.png)
-
-![Task 1 — Mobile](screenshots/task1-mobile.png)
+![Task 0 — Desktop](screenshots/task11.png)
+![Task 0 — Desktop](screenshots/task12.png)
+![Task 0 — Desktop](screenshots/task13.png)
+![Task 0 — Desktop](screenshots/task14.png)
+![Task 0 — Desktop](screenshots/task15.png)
+![Task 0 — Desktop](screenshots/task16.png)
 
 ## Part 2. Bootstrap Grid System
 
@@ -36,11 +40,14 @@ The Bootstrap 12-column grid is used with `col-12 col-md-6 col-lg-4`. This creat
 
 **Screenshot:**
 
-![Task 2 — Desktop](screenshots/task2-desktop.png)
+![Task 0 — Desktop](screenshots/task21.png)
 
-![Task 2 — Tablet](screenshots/task2-tablet.png)
+![Task 0 — Desktop](screenshots/task22.png)
 
-![Task 2 — Mobile](screenshots/task2-mobile.png)
+![Task 0 — Desktop](screenshots/task23.png)
+
+![Task 0 — Desktop](screenshots/task24.png)
+
 
 ### Task 3. Bootstrap Navigation Bar
 
@@ -48,9 +55,11 @@ I used Bootstrap's responsive navbar component. The logo is on the left, navigat
 
 **Screenshot:**
 
-![Task 3 — Desktop](screenshots/task3-desktop.png)
-
-![Task 3 — Mobile](screenshots/task3-mobile.png)
+![Task 0 — Desktop](screenshots/task31.png)
+![Task 0 — Desktop](screenshots/task32.png)
+![Task 0 — Desktop](screenshots/task33.png)
+![Task 0 — Desktop](screenshots/task34.png)
+![Task 0 — Desktop](screenshots/task35.png)
 
 ## Part 3. Combined Project
 
@@ -60,11 +69,14 @@ The portfolio combines Bootstrap and custom media queries. The header uses a Boo
 
 **Screenshot:**
 
-![Task 4 — Desktop](screenshots/task4-desktop.png)
-
-![Task 4 — Tablet](screenshots/task4-tablet.png)
-
-![Task 4 — Mobile](screenshots/task4-mobile.png)
+![Task 0 — Desktop](screenshots/task41.png)
+![Task 0 — Desktop](screenshots/task42.png)
+![Task 0 — Desktop](screenshots/task43.png)
+![Task 0 — Desktop](screenshots/task44.png)
+![Task 0 — Desktop](screenshots/task45.png)
+![Task 0 — Desktop](screenshots/task46.png)
+![Task 0 — Desktop](screenshots/task47.png)
+![Task 0 — Desktop](screenshots/task48.png)
 
 ## Work Process Summary
 
